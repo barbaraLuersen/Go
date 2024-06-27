@@ -1,6 +1,6 @@
  <h1>Projeto Go: Aplicação Web com PostgreSQL</h1>
 
-<p>Este projeto foi desenvolvido como parte do curso de Go da plataforma Alura. A aplicação web criada utiliza a linguagem Go e integra um banco de dados PostgreSQL para realizar operações básicas de CRUD (Create, Read, Update, Delete), utilizando o framework Bootstrap para o frontend.</p>
+<p>Este projeto é uma aplicação web desenvolvida como parte do curso de Go da plataforma Alura. A aplicação web criada utiliza a linguagem Go e integra um banco de dados PostgreSQL para realizar operações básicas de CRUD (Create, Read, Update, Delete), utilizando o framework Bootstrap para o frontend.</p>
 
 <h2>Funcionalidades</h2>
    <ul>
